@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![TheR1sing3un's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheR1sing3un)](https://github.com/anuraghazra/github-readme-stats
 ![TheR1sing3un's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=TheR1sing3un&show_icons=true&count_private=true&theme=gotham)
 
 ![Metrics](https://metrics.lecoq.io/TheR1sing3un?template=classic&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FShanghai)
