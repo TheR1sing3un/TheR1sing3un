@@ -6,7 +6,8 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning distribute system & database. 
-- 💬 Ask me about Java / golang / raft / DB
+- 🎯 Now focus on Message Queue.
+- 💬 Ask me about Java / golang / raft / DB / MQ
 - 📫 How to reach me: ther1sing3un@163.com
 - 😄 Pronouns: Distribute System & DB rookie
 
