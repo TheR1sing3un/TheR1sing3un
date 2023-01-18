@@ -5,12 +5,11 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🌱 I’m currently learning Distribute System & Storage & Database.
-- 🎯 Now focus on Message Queue & Stream Compute & Distributed Storage.
-- 💬 Ask me about Java / Golang / CPP / Raft / DB / MQ / Storage.
+- 🚀 I will start my internship at Nvidia in February 2023. I worked as an intern at Bytedance in 2022. 
+- 🌱 I’m currently learning Distribute System & Storage & Database & Big Data.
+- 🎯 Now focus on Spark & Message Queue & Distributed Storage.
+- 💬 Ask me about Java / Rust / Scala / Golang.
 - 📫 How to reach me: 
   - Email: ther1sing3un@163.com
   - Wechat: TheRisingSunSkr
 - 😄 Pronouns: Distribute System & DB rookie.
-
-
