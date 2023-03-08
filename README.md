@@ -9,10 +9,10 @@
 **Please contact me if there is any suitable job!**
 
 - 🚀 I worked as an intern at Bytedance in 2022. 
-- 🌱 I’m currently learning Distribute System & Storage & Database & Big Data.
+- 🌱 I’m currently learning Distributed System & Storage & Database & Big Data.
 - 🎯 Now focus on Message Queue & Distributed Storage.
 - 💬 Ask me about Java / Rust / Golang.
 - 📫 How to reach me: 
   - Email: ther1sing3un@163.com
   - Wechat: TheRisingSunSkr
-- 😄 Pronouns: Distribute System & DB rookie.
+- 😄 Pronouns: Distributed System rookie.
