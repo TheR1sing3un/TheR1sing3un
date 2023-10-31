@@ -15,4 +15,3 @@
 - 📫 How to reach me: 
   - Email: ther1sing3un@163.com
   - Wechat: TheRisingSunSkr
-- 😄 Pronouns: Distributed System Rookie.
