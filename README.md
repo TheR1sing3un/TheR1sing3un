@@ -5,11 +5,12 @@
 
 <!-- Here are some ideas to get you started: -->
 
-**Expected to graduate in June 2024!**  
-**Please contact me if there is any suitable job!**
 
 - 🚀 Now I am building cloud-native storage system in open source world! 
-- 💼 I worked as an intern at Infra::BlockStorage@ByteDance in 2023 & Infra::MessageQueue@ByteDance in 2022.
+- 💼 I worked as an intern at
+  - Dev::StreamStorage@AutoMQ
+  - Infra::BlockStorage@ByteDance
+  - Infra::MessageQueue@ByteDance
 - 🎯 Now focus on Distributed Storage & Streaming System.
 - 💬 Ask me about Java / Rust / C++ .
 - 📫 How to reach me: 
