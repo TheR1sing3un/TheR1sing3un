@@ -7,11 +7,13 @@
 
 
 - 🚀 Now I am building cloud-native storage system in open source world! 
-- 💼 I worked as an intern at
-  - StreamStorage@AutoMQ
-  - Infra::BlockStorage@ByteDance
-  - Infra::MessageQueue@ByteDance
-- 🎯 Now focus on Distributed Storage & Streaming System.
+- 💼
+  - I’m currently working at DataInfra::DataLake@Kuaishou  
+  - I worked as an intern at
+    - StreamStorage@AutoMQ
+    - Infra::BlockStorage@ByteDance
+    - Infra::MessageQueue@ByteDance
+- 🎯 Now focus on DataLake & Distributed Storage & Streaming System.
 - 💬 Ask me about Java / Rust / C++ .
 - 📫 How to reach me: 
   - Email: ther1sing3un@163.com
