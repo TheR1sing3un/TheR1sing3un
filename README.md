@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 
-- 🚀 Now I am building cloud-native storage system in open source world! 
+- 🚀 Now I am building cloud-native storage system in open source world!
 - 💼
   - I’m currently working at DataInfra::DataLake@Kuaishou  
   - I worked as an intern at
@@ -16,5 +16,5 @@
 - 🎯 Now focus on DataLake & Distributed Storage & Streaming System.
 - 💬 Ask me about Java / Rust / C++ .
 - 📫 How to reach me: 
-  - Email: ther1sing3un@163.com
+  - Email: chaoyang@apache.org
   - Wechat: TheRisingSunSkr
